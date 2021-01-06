@@ -21,7 +21,7 @@ h1 {
 .head {
     background: crimson;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
+    color: rgb(235, 231, 231);
     font-weight: bold;
     margin: 0;
     padding: 1em;
